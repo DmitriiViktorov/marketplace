@@ -1,0 +1,14 @@
+[
+{
+  "model": "myauth.profile",
+  "pk": 20,
+  "fields": {
+    "user": 1,
+    "fullName": "Викторов Дмитрий",
+    "email": "new_mail@gmail.ru",
+    "phone": "+7ghjklkjhg",
+    "src": "profiles/profile_20/avatar/vegetables.jpg",
+    "alt": "avatar"
+  }
+}
+]

@@ -1,0 +1,20 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$XnhrAHgt1DapOwfNRlLtYy$eNwOfYT+XJ6N40a88g5CLDEhADQYItmywlzYxh1MwYo=",
+    "last_login": "2024-06-20T09:43:26.762Z",
+    "is_superuser": true,
+    "username": "main_megano_admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-06-08T08:26:22.923Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
