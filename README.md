@@ -142,6 +142,6 @@ holodilnik.ru, citilink.ru или ozon.ru.
 
 В случае возникновения вопросов, комментариев, замечаний по работе приложения вы можете связаться со мной:
 - Email: viktorovokrl@gmail.com
-- Github: https://github.com/DmitriiViktorov/twitter
+- Github: https://github.com/DmitriiViktorov/marketplace
 - Telegram: https://t.me/ViktorovDV
 
